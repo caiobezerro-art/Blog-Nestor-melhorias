@@ -79,14 +79,14 @@ Certifique-se de ter instalado em sua máquina:
 
 1. **Clonar o repositório:**
 ```bash
-git clone [https://github.com/seu-usuario/blog-nestor-kenear.git](https://github.com/seu-usuario/blog-nestor-kenear.git)
+git clone [https://github.com/caiobezerro-art/Blog-Nestor-melhorias.git](https://github.com/seu-usuario/blog-nestor-kenear.git)
 
 ```
 
 
 2. **Navegar até o diretório do projeto:**
 ```bash
-cd blog-nestor-kenear
+cd Blog-Nestor-melhorias
 
 ```
 
@@ -126,7 +126,7 @@ Adoramos colaborações de pesquisadores, entusiastas e leitores! Se você desej
 ---
 title: "Título da Análise ou Artigo sobre Nestor Kenear"
 date: "2026-06-24"
-author: "Seu Nome"
+author: "Caio Bezerro"
 category: "Ensaios"
 tags: [Nestor Kenear, Obras, Filosofia, Crítica]
 description: "Um breve resumo do que aborda este artigo."
