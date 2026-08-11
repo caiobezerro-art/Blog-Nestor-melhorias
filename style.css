@@ -1,3 +1,7 @@
+:root {
+
+}
+
 body {
     max-width: 100vw;
 }
@@ -23,7 +27,7 @@ main {
 article{
     display: flex;
 
-    border: 1px solid #03235c;
+    border: 1px solid #e8eef5;
 
     margin: 16px;
     gap: 16px;
